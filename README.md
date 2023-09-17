@@ -3,9 +3,9 @@
 ### Paso: 1
 Debemos instalar las librerias. 
 
-Importar: `.pandas`
+import `.pandas`
 
-Importar: `.seaborn`
+import `.seaborn`
 
 ```commandline
 
