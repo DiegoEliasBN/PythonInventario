@@ -4,6 +4,7 @@
 Debemos instalar las librerias. 
 
 Importar: `.pandas`
+
 Importar: `.seaborn`
 
 ```commandline
@@ -17,5 +18,17 @@ py -m pip install seaborn
 
 ### Paso 2: 
 
+Debemos tener ejecutando en nuestra maquina el programa Anaconda.Navigator 
+
+Descargar: https://www.anaconda.com/download 
+
+![image](https://github.com/DiegoEliasBN/PythonInventario/assets/44419827/01d50d95-7052-4e10-8cab-e4c9d5923458)
+
+
+### Paso 3: 
+
 Ejecutamos `PythonInventarios.py`
+
+![image](https://github.com/DiegoEliasBN/PythonInventario/assets/44419827/8be0e170-d850-4b11-b8e3-cdfae5f3aa92)
+
 
